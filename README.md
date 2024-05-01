@@ -9,9 +9,9 @@ Repository to explore the Titanic dataset using a few supervised Machine Learnin
 
 ## Python packages used: 
 
-- For data handling and processing: Pandas, Numpy
-- For Statistics and Machine Learning: Scikit-Learn
-- For plotting: Matplotlib.pyplot, Seaborn
+- For data handling and processing: **Pandas, Numpy**
+- For Machine Learning: **Scikit-Learn**
+- For plotting: **Matplotlib.pyplot, Seaborn**
 
 ## Description 
 
