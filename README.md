@@ -1,5 +1,5 @@
 # Titanic_ML
-Repository to explore the titanic dataset using a few supervised Machine Learning models
+Repository to explore the Titanic dataset using a few supervised Machine Learning models
 
 ## Analytical methods used: 
 
